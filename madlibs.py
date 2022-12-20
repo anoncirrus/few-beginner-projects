@@ -1,6 +1,7 @@
 """
 Very Beginner Python Project by anoncirrus
 Madlibs using string concatenation
+
 """
 # # string concatenation (aka how to put strings together)
 # # suppose we want to create a string that says "subscribe to _____ "

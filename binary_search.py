@@ -1,5 +1,6 @@
 """
 Beginner Python Project - Binary Search Implementation by anoncirrus
+
 """
 
 import random

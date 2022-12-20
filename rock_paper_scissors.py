@@ -1,5 +1,6 @@
 """
 Implementation of rock, paper, scissors by anoncirrus
+
 """
 
 import random
