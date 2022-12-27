@@ -18,6 +18,6 @@ a part of your life identity and you can become a super {adj2} hacker. Knowledge
 lets you take control of your {noun1}. You can create your own personal {noun_plural_2}, anything \
 from developing {adj3} software to analyzing data and making predictions about the {noun2}. You can \
 maybe even recreate Jarvis and make him extra {adj4}. I hope you'll start your {adj5} journey by \
-coding with Kylie :)"
+coding with Pruthvi :)"
     
     print(madlib)
